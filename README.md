@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tA2oSTiSgeqB5Tk2ilWfPPezbS6mSoMZ/view?usp=sharing](https://drive.google.com/file/d/1tA2oSTiSgeqB5Tk2ilWfPPezbS6mSoMZ/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
