@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamrudhresh" target="blank"><img src="https://img.shields.io/twitter/follow/iamrudhresh?logo=twitter&style=for-the-badge" alt="iamrudhresh" /></a> </p>
 
-- 🔭 I’m currently pursing a **B.E.CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
+- 🔭 I’m currently pursing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
   
