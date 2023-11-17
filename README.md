@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently pursing **B.E.CSE at Chennai Institute Of Technology**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms & Full-Stack Web Development**
 
-- 📝 I regularly write articles on [https://iamrudhresh.medium.com/](https://iamrudhresh.medium.com/)
+- 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
 
