@@ -16,6 +16,8 @@
 - 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
+  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GEJoiXK_QQAzvN4ny7jil2ldGf0Obbev/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
