@@ -9,11 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/iamrudhresh" target="blank"><img src="https://img.shields.io/twitter/follow/iamrudhresh?logo=twitter&style=for-the-badge" alt="iamrudhresh" /></a> </p>
 
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
+
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
 - 🔭 I’m currently pursing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
   
-- 💭 Ask me anything about **Web Development**
+- 💭👯 I’m looking to collaborate on OpenSource Projects
 
 - 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
 
