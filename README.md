@@ -34,7 +34,7 @@
 
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrudhresh" height="30" width="40" /></a>
 <a href="https://twitter.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrudhresh" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left"><b>SKILLS:</b></h3>
+<h3 align="left"><b>SKILLS</b></h3>
 
 - PROGRAMMING LANGUAGES
 <p align="left">
@@ -79,7 +79,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">TROPHY:</h3>
+<h3 align="left">TROPHY</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -95,7 +95,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Achievements:</h3>
+<h3 align="left">ACHIEVEMENTS</h3>
 
 [![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
 <br><br><br>
