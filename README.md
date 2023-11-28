@@ -1,5 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Rudhresh</h1>
+<p align="center">
+  <em>
+    Myself <b>Om Patel</b>, a final year <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
+    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+  <br>
+  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+</p>
+
+<!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 <h3 align="center">Aspiring Software Developer Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
