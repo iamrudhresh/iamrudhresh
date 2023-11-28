@@ -5,7 +5,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
@@ -25,6 +25,8 @@
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
 - 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
+
+- 💡 Contributing to Open Source Projects is always been a goal to me.
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
   
