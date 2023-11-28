@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamrudhresh" target="blank"><img src="https://img.shields.io/twitter/follow/iamrudhresh?logo=twitter&style=for-the-badge" alt="iamrudhresh" /></a> </p>
-
 - ✌️ Enjoy to do programming and sharing knowledge
 
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
