@@ -53,14 +53,14 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
   </a>
 </p>
 
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow" />
   </a>
 </p>
 <br/>
