@@ -48,48 +48,38 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><b>SKILLS:</b></h3>
 
-- Backend
+- PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
   </a>
 </p>
 
-- Frontend
+- DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript" />
   </a>
 </p>
 
-- Database
+- DATABASES
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Progrogramming Languages
+- TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,kotlin" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,pycharm,vscode" />
   </a>
 </p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
-  </a>
-</p>
-
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 
 
 
