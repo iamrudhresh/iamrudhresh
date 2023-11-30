@@ -58,7 +58,7 @@
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow,androidstudio,netlify,vercel" />
   </a>
 </p>
 <br/>
