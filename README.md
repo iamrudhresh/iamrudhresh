@@ -58,7 +58,7 @@
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js" />
   </a>
 </p>
 
