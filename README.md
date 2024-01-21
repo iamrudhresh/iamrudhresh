@@ -51,14 +51,14 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
   </a>
 </p>
 
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
   </a>
 </p>
 
