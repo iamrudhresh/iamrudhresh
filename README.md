@@ -58,7 +58,7 @@
 - FULL-STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,reactjs" />
   </a>
 </p>
 
