@@ -51,28 +51,28 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
   </a>
 </p>
 
 - FULL-STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nodejs," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,vite,babel,npm,nodejs,express	" />
   </a>
 </p>
 
 - DATABASES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
   </a>
 </p>
 
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,eclipse,vscode,webflow,netlify,vercel,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,pycharm,eclipse,vscode,webflow,netlify,vercel,firebase,postman" />
   </a>
 </p>
 <br/>
