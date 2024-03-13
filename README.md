@@ -72,7 +72,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,pycharm,eclipse,vscode,webflow,netlify,vercel,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,figma,idea,pycharm,eclipse,vscode,netlify,vercel,firebase,postman" />
   </a>
 </p>
 <br/>
