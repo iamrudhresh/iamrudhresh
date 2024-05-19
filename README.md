@@ -65,7 +65,7 @@
 - BACK-END
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" />
   </a>
 </p>
 
@@ -76,10 +76,17 @@
   </a>
 </p>
 
+- DevOps & Deployement
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+  </a>
+</p>
+
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,figma,idea,pycharm,eclipse,vscode,netlify,vercel,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,eclipse,vscode,netlify,vercel,webflow,firebase,postman" />
   </a>
 </p>
 <br/>
