@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudhresh</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOPS+Engineer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50"></a>
 </p>
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GEJoiXK_QQAzvN4ny7jil2ldGf0Obbev/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PX-sqky4TDk3b9Tzs7Gj7syMaAa99tov/view?usp=sharing)
 
 - ⚡ Fun fact I think I'm funny
 
@@ -51,14 +51,21 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,sql" />
   </a>
 </p>
 
-- FULL-STACK WEB DEVELOPMENT STACKS
+- FRONT-END
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  </a>
+</p>
+
+- BACK-END
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postman" />
   </a>
 </p>
 
