@@ -79,7 +79,7 @@
 - DevOps & Deployement
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
   </a>
 </p>
 
