@@ -109,6 +109,18 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=iamrudhresh&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=12960671&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@634750802's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=12960671&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">ACHIEVEMENTS</h3>
 
 [![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
