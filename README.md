@@ -94,6 +94,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![iamrudhresh's GitHub | Stats](https://stats.quine.sh/iamrudhresh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
+[![iamrudhresh's GitHub | Dependencies](https://stats.quine.sh/iamrudhresh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 
 <h3 align="left">TROPHY</h3>
 
