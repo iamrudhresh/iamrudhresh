@@ -96,7 +96,7 @@
 [![iamrudhresh's GitHub | Stats](https://stats.quine.sh/iamrudhresh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 [![iamrudhresh's GitHub | Dependencies](https://stats.quine.sh/iamrudhresh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 [![iamrudhresh's GitHub | Topics Over Time](https://stats.quine.sh/iamrudhresh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
-
+[![iamrudhresh's GitHub | Languages Over Time](https://stats.quine.sh/iamrudhresh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 
 <h3 align="left">TROPHY</h3>
 
