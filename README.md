@@ -51,7 +51,8 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,sql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    
   </a>
 </p>
 
