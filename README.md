@@ -106,7 +106,6 @@
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
 
 <h1 align="center">🚀 TROPHY 🚀 </h1>
-
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 <div align="center">
