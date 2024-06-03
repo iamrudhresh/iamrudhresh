@@ -46,7 +46,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center"><b>🚀 SKILLS</b></h3>
+<h1 align="center">🚀 SKILLS 🚀 </h1>
 
 ### Programming Languages
 <p align="left">
@@ -99,12 +99,13 @@
 # My Recent Medium Articles
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2"> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
+<h1 align="center">🚀 TROPHY 🚀 </h1>
 
-# TROPHY
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 <div align="center">
@@ -117,7 +118,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
-# ACHIEVEMENTS
+<h1 align="center">🚀 ACHIEVEMENTS 🚀 </h1>
 
 [![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
 <br><br><br>
@@ -127,15 +128,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrudhresh&theme=radical&border=7F3FBF&background=0D1117" alt="Rudhresh's GitHub streak"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/iamrudhresh">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrudhresh&theme=radical" alt="Rudhresh's GitHub Contribution"/>
   </a>
 </p>
-<a> 
-    <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamrudhresh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  
+<a> <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamrudhresh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamrudhresh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
