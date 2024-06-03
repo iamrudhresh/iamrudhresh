@@ -140,6 +140,11 @@
 </a>
 
 
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
 ![Rudhresh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrudhresh&custom_title=%20Rudhresh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
