@@ -104,6 +104,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
+
 <h1 align="center">🚀 TROPHY 🚀 </h1>
 
 <p align="center">
@@ -115,6 +116,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
  <br><br>
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
