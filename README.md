@@ -85,47 +85,41 @@
 </p>
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!------------------------------------------------------------------------------------GITHUB STATS--------------------------------------------------------------------------------------------------->
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 [![iamrudhresh's GitHub | Stats](https://stats.quine.sh/iamrudhresh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 [![iamrudhresh's GitHub | Dependencies](https://stats.quine.sh/iamrudhresh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 [![iamrudhresh's GitHub | Topics Over Time](https://stats.quine.sh/iamrudhresh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
 [![iamrudhresh's GitHub | Languages Over Time](https://stats.quine.sh/iamrudhresh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# Medium Recent Articles
+<!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
+
+# My Recent Medium Articles
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0"> 
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1"> 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
 
 <h3 align="left">TROPHY</h3>
-
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
  <br><br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
 <h3 align="left">ACHIEVEMENTS</h3>
-
 [![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
 <br><br><br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 <p align="center">
   <a href="https://github.com/iamrudhresh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrudhresh&theme=radical&border=7F3FBF&background=0D1117" alt="Rudhresh's GitHub streak"/>
@@ -137,7 +131,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrudhresh&theme=radical" alt="Rudhresh's GitHub Contribution"/>
   </a>
 </p>
-
 <a> 
     <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamrudhresh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamrudhresh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
