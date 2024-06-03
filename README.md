@@ -101,6 +101,11 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
+
 <h3 align="left">TROPHY</h3>
 
 <p align="center">
