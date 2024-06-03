@@ -55,31 +55,24 @@
   </a>
 </p>
 
-- FRONT-END
+- WEB DEVELOPMENT
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-  </a>
-</p>
-
-- BACK-END
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,prisma" />
   </a>
 </p>
 
 - DATABASES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite," />
   </a>
 </p>
 
 - DevOps & Deployement
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" />
   </a>
 </p>
 
