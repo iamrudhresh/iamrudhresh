@@ -101,11 +101,12 @@
 # My Recent Medium Articles
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1"> 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
 
-<h3 align="left">TROPHY</h3>
+# TROPHY
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 <div align="center">
@@ -118,7 +119,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
-<h3 align="left">ACHIEVEMENTS</h3>
+# ACHIEVEMENTS
 
 [![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
 <br><br><br>
