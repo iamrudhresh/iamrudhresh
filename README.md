@@ -97,10 +97,9 @@
 
 <!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
 <h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2"> 
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
@@ -109,12 +108,14 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px"></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+</div>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
- <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+</div>
+
+<br><br>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
