@@ -46,44 +46,42 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left"><b>SKILLS</b></h3>
+<h3 align="center"><b>🚀 SKILLS</b></h3>
 
-- PROGRAMMING LANGUAGES
+### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-    
   </a>
 </p>
 
-- WEB DEVELOPMENT
+### Web Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,express,prisma,npm" />
   </a>
 </p>
 
-- DATABASES
+### Databases
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
   </a>
 </p>
 
-- DevOps & Deployement
+### DevOps & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" />
   </a>
 </p>
 
-- TOOLS/PLATFORMS
+### Tools/Platforms
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,postman,ubuntu,windows" />
   </a>
 </p>
-<br/>
 
 <!------------------------------------------------------------------------------------GITHUB STATS--------------------------------------------------------------------------------------------------->
 
