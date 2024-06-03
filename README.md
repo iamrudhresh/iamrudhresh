@@ -59,14 +59,14 @@
 - WEB DEVELOPMENT
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,prisma,npm" />
   </a>
 </p>
 
 - DATABASES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite," />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,render,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,render,postman,ubuntu,windows" />
   </a>
 </p>
 <br/>
