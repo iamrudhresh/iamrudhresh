@@ -59,7 +59,7 @@
 ### Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,express,prisma,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,vitejs,nextjs,prisma,npm" />
   </a>
 </p>
 
