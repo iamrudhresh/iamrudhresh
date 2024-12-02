@@ -56,24 +56,31 @@
   </a>
 </p>
 
-### Web Development
+### Front-End Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,nextjs,redux,prisma,npm,babel" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,nextjs,redux,prisma,materialui" />
+  </a>
+</p>
+
+### Back-End Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,babel," />
   </a>
 </p>
 
 ### Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase,cassandra" />
   </a>
 </p>
 
 ### DevOps & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
   </a>
 </p>
 
