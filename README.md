@@ -12,7 +12,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/v2/qpn9zKBy3pjiyvpA0K6v4.png?type=default&r=rmh" width="356" alt="Tharun Balaji's Dev Card" align="right" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
