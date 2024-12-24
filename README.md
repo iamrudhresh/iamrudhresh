@@ -85,7 +85,7 @@
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase,cassandra" />
+              <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase" />
             </a>
           </div>
         </td>
