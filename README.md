@@ -61,9 +61,8 @@
     <thead>
       <tr>
         <th>Programming Languages</th>
-        <th>Full-Stack Development</th>
+        <th>Front-End & Back-End Development</th>
         <th>Databases</th>
-        <th>DevOps & Deployment</th>
         <th>Tools/Platforms</th>
       </tr>
     </thead>
@@ -93,14 +92,14 @@
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+              <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,render" />
             </a>
           </div>
         </td>
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,netlify,postman,androidstudio,ubuntu,windows" />
+              <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,postman,androidstudio,ubuntu,windows" />
             </a>
           </div>
         </td>
