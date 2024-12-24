@@ -33,10 +33,12 @@
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
+
+- 🎯 Checkout my portfolio <a href="https://iamrudhresh.com" target="_blank">**iamrudhresh.com**</a>
   
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PX-sqky4TDk3b9Tzs7Gj7syMaAa99tov/view?usp=sharing)
 
-- ⚡ Fun fact I think I'm funny
+- ⚡ Mindset is Everything!
 
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
@@ -95,6 +97,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,netlify,postman,androidstudio,ubuntu,windows" />
   </a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
 <h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
