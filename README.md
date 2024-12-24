@@ -47,7 +47,7 @@
 
 <h1 align="center" style="text-decoration: none;">🚀 SKILLS 🚀</h1>
 
-<!-- 
+
 ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
@@ -88,93 +88,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,netlify,postman,androidstudio,ubuntu,windows" />
   </a>
-</p> -->
-
-
-
-### **Pros:**
-- **Visual Appeal:** Modern and colorful badges catch the eye.
-- **Customizable:** Easily adjust colors, styles, and logos to match your preferences.
-- **Highlight Popular Technologies:** Badges can emphasize widely recognized tools and languages.
-
-### **Cons:**
-- **Cluttered Appearance:** Too many badges can make the section look busy.
-- **Load Time:** Each badge is a separate image, which might slow down page loading slightly.
-
----
-
-## 3. **Using Icon Grids with HTML for Enhanced Layout**
-
-While Markdown has limitations, incorporating HTML can help create more sophisticated layouts like grids.
-
-### **Example:**
-
-```markdown
-### 🛠️ **Skills**
-
-<table>
-  <tr>
-    <th>Programming Languages</th>
-    <th>Front-End</th>
-    <th>Back-End</th>
-    <th>Databases</th>
-    <th>DevOps</th>
-    <th>Tools & Platforms</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=babel" alt="Babel" width="40" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra" width="40" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" /> 
-      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" />
-    </td>
-  </tr>
-</table>
-
+</p>
 
 <!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
 <h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
