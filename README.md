@@ -32,7 +32,6 @@
 
 - ⚡ Fun fact I think I'm funny
 
-
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
@@ -90,17 +89,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,netlify,postman,androidstudio,ubuntu,windows" />
   </a>
 </p>
-
-<!------------------------------------------------------------------------------------GITHUB STATS--------------------------------------------------------------------------------------------------->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-[![iamrudhresh's GitHub | Stats](https://stats.quine.sh/iamrudhresh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
-[![iamrudhresh's GitHub | Dependencies](https://stats.quine.sh/iamrudhresh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
-[![iamrudhresh's GitHub | Topics Over Time](https://stats.quine.sh/iamrudhresh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
-[![iamrudhresh's GitHub | Languages Over Time](https://stats.quine.sh/iamrudhresh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iamrudhresh)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
 <h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
