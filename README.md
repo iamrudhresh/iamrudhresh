@@ -1,11 +1,18 @@
-<img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241224T221541Z&X-Amz-Expires=300&X-Amz-Signature=cf5972910297f0e4fdf040938b12b7b0322b59f2238d5934cad5acd0e46f154f&X-Amz-SignedHeaders=host">
+<!-- Full-width Image -->
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241224T221541Z&X-Amz-Expires=300&X-Amz-Signature=cf5972910297f0e4fdf040938b12b7b0322b59f2238d5934cad5acd0e46f154f&X-Amz-SignedHeaders=host" alt="Coding Banner" style="width: 100%; height: auto;">
 
+<!-- Add some space -->
+<br>
+<br>
 
-
+<!-- Centered Heading and Typing SVG -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudhresh</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50">
+  </a>
 </p>
+
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
