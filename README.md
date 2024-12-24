@@ -52,8 +52,9 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align="left">
-  <h3> Languages and Tools: 💡 </h3>
+  <h2> Skills: 💡 </h2>
 </p>
 
 <div align="center">
@@ -61,8 +62,8 @@
     <thead>
       <tr>
         <th>Programming Languages</th>
-        <th>Front-End & Back-End Development</th>
-        <th>Databases</th>
+        <th>Front-End Development</th>
+        <th>Back-End Development</th>
         <th>Tools/Platforms</th>
       </tr>
     </thead>
@@ -71,35 +72,40 @@
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=js,ts,java" />
+              <img src="https://skillicons.dev/icons?i=js" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=ts" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=java" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=python" hspace="20" />
             </a>
           </div>
         </td>
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,vite,nextjs,redux,prisma,materialui,shadcn" />
+              <img src="https://skillicons.dev/icons?i=html" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=css" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=react" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=tailwind" hspace="20" />
             </a>
           </div>
         </td>
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase" />
+              <img src="https://skillicons.dev/icons?i=nodejs" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=express" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=prisma" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=materialui" hspace="20" />
             </a>
           </div>
         </td>
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i= />
-            </a>
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,postman,androidstudio,docker,githubactions,vercel,netlify" />
+              <img src="https://skillicons.dev/icons?i=git" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=github" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=docker" hspace="20" />
+              <img src="https://skillicons.dev/icons?i=vercel" hspace="20" />
             </a>
           </div>
         </td>
@@ -107,6 +113,7 @@
     </tbody>
   </table>
 </div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
