@@ -12,7 +12,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
-<a href="https://app.daily.dev/iamrudhresh"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="RUDHRESH S's Dev Card"/></a>
+<a href="https://app.daily.dev/iamrudhresh"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="RUDHRESH S's Dev Card" align="right"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
 
