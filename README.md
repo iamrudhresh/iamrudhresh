@@ -65,7 +65,7 @@
     <thead>
       <tr>
         <th>Programming Languages</th>
-        <th>Front-End & Back-End Development</th>
+        <th>Front-End & Back-End</th>
         <th>Databases</th>
         <th>Tools/Platforms</th>
       </tr>
