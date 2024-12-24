@@ -92,14 +92,14 @@
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,render" />
+              <img src="https://skillicons.dev/icons?i= />
             </a>
           </div>
         </td>
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,postman,androidstudio,ubuntu,windows" />
+              <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,postman,androidstudio,docker,githubactions,vercel,netlify" />
             </a>
           </div>
         </td>
