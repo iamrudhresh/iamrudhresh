@@ -60,9 +60,8 @@
   <table>
     <thead>
       <tr>
-        <th>Programming</th>
-        <th>Front-End Development</th>
-        <th>Back-End Development</th>
+        <th>Programming Languages</th>
+        <th>Full-Stack Development</th>
         <th>Databases</th>
         <th>DevOps & Deployment</th>
         <th>Tools/Platforms</th>
@@ -73,21 +72,14 @@
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+              <img src="https://skillicons.dev/icons?i=js,ts,java" />
             </a>
           </div>
         </td>
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,nextjs,redux,prisma,materialui" />
-            </a>
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=nodejs,express,npm,babel" />
+              <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,vite,nextjs,redux,prisma,materialui,shadcn" />
             </a>
           </div>
         </td>
