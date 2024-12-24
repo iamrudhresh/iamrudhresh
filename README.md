@@ -52,51 +52,71 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h1 align="center" style="text-decoration: none;">🚀 SKILLS 🚀</h1>
-
-
-### Programming Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-  </a>
+  <h3> Languages and Tools: 💡 </h3>
 </p>
 
-### Front-End Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,nextjs,redux,prisma,materialui" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Programming</th>
+        <th>Front-End Development</th>
+        <th>Back-End Development</th>
+        <th>Databases</th>
+        <th>DevOps & Deployment</th>
+        <th>Tools/Platforms</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,nextjs,redux,prisma,materialui" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=nodejs,express,npm,babel" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase,cassandra" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,netlify,postman,androidstudio,ubuntu,windows" />
+            </a>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### Back-End Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,babel," />
-  </a>
-</p>
-
-### Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase,cassandra" />
-  </a>
-</p>
-
-### DevOps & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
-  </a>
-</p>
-
-### Tools/Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,netlify,postman,androidstudio,ubuntu,windows" />
-  </a>
-</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
