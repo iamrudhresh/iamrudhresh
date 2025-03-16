@@ -86,14 +86,11 @@
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=shadcn" alt="ShadCN" width="50" height="50" />
             </a>
@@ -106,7 +103,6 @@
               <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
             </a>
           </div>
         </td>
@@ -116,13 +112,9 @@
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" /><br/>
