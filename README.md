@@ -36,7 +36,7 @@
 
 - 🎯 Checkout my portfolio <a href="https://iamrudhresh.com" target="_blank">**iamrudhresh.com**</a>
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PX-sqky4TDk3b9Tzs7Gj7syMaAa99tov/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nCwNRfuMxGm5b98b368mBZGUwr0yOuJh/view?usp=sharing)
 
 - ⚡ Mindset is Everything!
 
@@ -76,6 +76,9 @@
               <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=Python" alt="Python" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=java" alt="latex" width="50" height="50" /><br/>
               <!-- Add more icons here if needed -->
             </a>
           </div>
@@ -119,6 +122,11 @@
               <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />
+                   <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="50" height="50" />
+                   <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="50" height="50" />
             </a>
           </div>
         </td>
